@@ -1,0 +1,496 @@
+{
+    "intents": [
+      {
+        "tag": "intent_1",
+        "patterns": [
+          "What is novel coronavirus?",
+          "What is covid?",
+          "covid19",
+          "What is SARS 2?",
+          "What is the meaning of Covid 19?",
+          "What is the meaning if Coronavirus?",
+          "coronavirus",
+          "covid-19",
+          "what is covid-19?",
+          "coronavirus meaning",
+          "can you tell me the meaning of coronavirus",
+          "coronavirus definition",
+          "covid definition",
+          "define covid",
+          "define coronavirus",
+          "tell me about coronavirus",
+          "tell me about covid-19",
+          "tell me about covid",
+          "Severe Acute Respiratory Syndrome",
+          "SARS",
+          "MERS",
+          "Middle East Respiratory Syndrome"
+        ],
+        "responses": [
+          "A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold. COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.",
+          "Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_2",
+        "patterns": [
+          "why is the disease called coronavirus",
+          "why it is called coronavirus",
+          "why it is called covid19",
+          "why it is called covid"
+        ],
+        "responses": [
+          "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, 'CO' stands for 'corona', 'VI' for 'virus', and 'D' for disease. Formerly, this disease was referred to as “2019 novel coronavirus” or “2019-nCoV”."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_3",
+        "patterns": [
+          "how does the virus spread",
+          "how coronavirus spreads",
+          "spread of coronavirus",
+          "covid19 spread",
+          "how does covid19 spread",
+          "spreading of covid19",
+          "how does coronavirus spread",
+          "virus spread"
+        ],
+        "responses": [
+          "The virus that causes COVID-19 is thought to spread mainly from person to person, mainly through respiratory droplets produced when an infected person coughs, sneezes, or talks. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Spread is more likely when people are in close contact with one another (within about 6 feet).  "
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_4",
+        "patterns": [
+          "can covid spread through food",
+          "covid due to food",
+          "food in covid",
+          "can coronavirus spread through packed food",
+          "can I order food",
+          "can I order food in this pandemic",
+          "can I get covid 19 because of food",
+          "can i get coronavirus due to food",
+          "restaurant food coronavirus",
+          "can I order from restaurant",
+          "coronavirus covid covid 19 packaged food"
+        ],
+        "responses": [
+          "Coronaviruses are generally thought to be spread from person to person through respiratory droplets. Currently, there is no evidence to support transmission of COVID-19 associated with food. Before preparing or eating food it is important to always wash your hands with soap and water for at least 20 seconds for general food safety. Throughout the day use a tissue to cover your coughing or sneezing, and wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_5",
+        "patterns": [
+          "what are the symptoms of covid19",
+          "what are the symptoms of coronavirus",
+          "symptoms",
+          "how do I know I may have coronavirus",
+          "how do I know I may have covid19",
+          "what are the symptoms",
+          "tell me symptoms of coronavirus",
+          "symptoms shown in coronavirus covid"
+        ],
+        "responses": [
+          "The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people (about 80%) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention. It is possible to test positive for flu (as well as other respiratory infections) and COVID-19 at the same time."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_6",
+        "patterns": [
+          "will warm water stop coronavirus",
+          "will warm water stop covid 19",
+          "will warm water stop covid",
+          "can taking steam stop coronavirus",
+          "steam during coronavirus",
+          "warm water",
+          "steam"
+        ],
+        "responses": [
+          "It is not yet known whether weather and temperature affect the spread of COVID-19. Some other viruses, like those that cause the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months.  There is much more to learn about the transmissibility, severity, and other features associated with COVID-19 and investigations are ongoing."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_7",
+        "patterns": [
+          "what is community spread",
+          "community spread",
+          "community spread meaning",
+          "define community spread"
+        ],
+        "responses": [
+          "Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Each health department determines community spread differently based on local conditions. For information on community spread in your area, please visit your health department's website."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_8",
+        "patterns": [
+          "can mosquitoe bite spread coronavirus",
+          "can mosquitoes spread covid19",
+          "mosquitoes coronavirus",
+          "can mosquitoes spread covid",
+          "what if a mosquitoe bites me",
+          "mosquitoe",
+          "mosquitoes"
+        ],
+        "responses": [
+          "At this time, CDC has no data to suggest that this new coronavirus or other similar coronaviruses are spread by mosquitoes or ticks. The main way that COVID-19 spreads is from person to person. See How Coronavirus Spreads for more information."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_9",
+        "patterns": [
+          "What can I do to protect myself and prevent the spread of disease",
+          "how should I protect myself",
+          "how can I protect myself",
+          "protection in covid",
+          "protection during coronavirus",
+          "protection"
+        ],
+        "responses": [
+          "Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands.Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing. Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease.Avoid touching eyes, nose and mouth. Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick. Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority. Why? National and local authorities will have the most up to date information on the situation in your area."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_10",
+        "patterns": [
+          "can covid 19 spread through human feces",
+          "can coronavirus spread via feces",
+          "human feces",
+          "feces",
+          "can covid spread by human feces",
+          "Can I catch COVID-19 from the feces of someone with the disease"
+        ],
+        "responses": [
+          "The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not a main feature of the outbreak. WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_11",
+        "patterns": [
+          "what cleaning products should I use in coronavirus",
+          "what cleaning products should I use in covid",
+          "what cleaning products should I use in covid19",
+          "what cleaning products should I use",
+          "cleaning products"
+        ],
+        "responses": [
+          "Clean and disinfect frequently touched surfaces such as tables, doorknobs, light switches, countertops, handles, desks, phones, keyboards, toilets, faucets, and sinks.  If surfaces are dirty, clean them using detergent or soap and water prior to disinfection."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_12",
+        "patterns": [
+          "who are at higher risk",
+          "severe illness in coronavirus",
+          "extreme illness in coronavirus",
+          "higher risk people",
+          "higher risk",
+          "old people in coronavirus",
+          "old people",
+          "senior citizens",
+          "old age",
+          "severe illness",
+          "extreme illness",
+          "high risk"
+        ],
+        "responses": [
+          "While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions (such as high blood pressure, heart disease, lung disease, cancer or diabetes) appear to develop serious illness more often than others."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_13",
+        "patterns": [
+          "Can i catch covid 19",
+          "can I catch coronavirus",
+          "can I catch",
+          "how likely I am to infect",
+          "what is the probability of getting infected",
+          "Am i likely to catch",
+          "infected"
+        ],
+        "responses": [
+          "The risk depends on where you are - and more specifically, whether there is a COVID-19 outbreak unfolding there. For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world (cities or areas) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_14",
+        "patterns": [
+          "should I eat antibodies",
+          "are antibodies effective",
+          "antibodies",
+          "can antibodies prevent covid",
+          "can antibodies prevent coronavirus",
+          "antibodies"
+        ],
+        "responses": [
+          "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_15",
+        "patterns": [
+          "medicine for covid 19",
+          "medicine for coronavirus",
+          "vaccine",
+          "medicine",
+          "vaccine for coronavirus",
+          "vaccine for covid19",
+          "when will vaccine come",
+          "when will vaccine launch",
+          "treatment for coronavirus",
+          "treatment"
+        ],
+        "responses": [
+          "Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Possible vaccines and some specific drug treatments are under investigation. They are being tested through clinical trials. WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_16",
+        "patterns": [
+          "should I wear a mask",
+          "should I use mask",
+          "does mask protect coronavirus",
+          "mask in coronavirus",
+          "mask",
+          "can mask prevent coronavirus",
+          "can mask prevent covid"
+        ],
+        "responses": [
+          "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so WHO urges people to use masks wisely. WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks. The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_17",
+        "patterns": [
+          "How long is the incubation period for COVID-19?",
+          "incubation period",
+          "incubation",
+          "define of incubation period",
+          "what is incubation period",
+          "meaning of incubation period",
+          "incubation period for covid19",
+          "incubation in coronavirus"
+        ],
+        "responses": [
+          "The “incubation period” means the time between catching the virus and beginning to have symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data become available."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_18",
+        "patterns": [
+          "can i eat meat",
+          "can i eat chicken",
+          "nonveg food",
+          "non veg food in coronavirus",
+          "can i eat meat",
+          "can i get coronavirus by eating meat",
+          "can i get coronavirus by eating chicken",
+          "can i get infected by eating meat",
+          "meat",
+          "chicken",
+          "non veg food",
+          "nonveg food",
+          "nonveg"
+        ],
+        "responses": [
+          "Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed. To protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_19",
+        "patterns": [
+          "can i catch covid 19 from my pet",
+          "Can i get covid 19 from my pet",
+          "i have pet",
+          "i have a pet dog",
+          "can my pet give coronavirus",
+          "can my dog spread coronavirus",
+          "covid 19 dog",
+          "dog",
+          "cat",
+          "pet"
+        ],
+        "responses": [
+          "No. There is no evidence that companion animals or pets such as cats and dogs have been infected or could spread the virus that causes COVID-19."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_20",
+        "patterns": [
+          "how long does virus survive on surfaces",
+          "coronavirus on surfaces",
+          "coronavirus on table",
+          "survival rate of coronavirus on surfaces"
+        ],
+        "responses": [
+          "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other coronaviruses. Studies suggest that coronaviruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment)."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_21",
+        "patterns": [
+          "is it safe to order online",
+          "can i order stuff online",
+          "can I order from amazon",
+          "can i order from flipkart",
+          "amazon",
+          "is it safe to order online",
+          "flipkart",
+          "can I order online",
+          "online packages",
+          "can i receive package",
+          "order online",
+          "myntra",
+          "snapdeal",
+          "online order"
+        ],
+        "responses": [
+          "The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low."
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_22",
+        "patterns": [
+          "can I travel",
+          "domestic travel",
+          "international travel",
+          "can I visit my friends",
+          "can I travel outside",
+          "can travelling increase risk of coronavirus",
+          "travel",
+          "travelling",
+          "travelling during covid",
+          "travel during coronavirus"
+        ],
+        "responses": ["Travel increases your chances of getting and spreading COVID-19. Before you travel, learn if COVID-19 is spreading in your local area or in any of the places you are going. Traveling to visit family may be especially dangerous if you or your loved ones are more likely to get very ill from COVID-19."],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_23",
+        "patterns": [
+          "Hi",
+          "who are you",
+          "define yourself",
+          "hello",
+          "namaste",
+          "how are you",
+          "howdy",
+          "hi there",
+          "is anyone there",
+          "I need help",
+          "how can you help me",
+          "what is your name",
+          "what should I call you",
+          "help",
+          "need help",
+          "good morning",
+          "good afternoon",
+          "good evening"
+        ],
+        "responses": [
+          "Hi there, I am covid bot how can I help you?"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_24",
+        "patterns": [
+          "Bye",
+          "see ya",
+          "thank you",
+          "good bye",
+          "ttyl",
+          "talk to you later",
+          "see you"
+        ],
+        "responses": [
+          "Thank You, I am glad that I you found me helpful",
+          "See You Again",
+          "Bye",
+          "Bye ! See you"
+        ],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_25",
+        "patterns": [
+          "who has made you",
+          "who is your owner",
+          "who has developed you",
+          "founder",
+          "your originator",
+          "who is your dad",
+          "who is your mom",
+          "who is vinay patil",
+          "vinay patil"
+        ],
+        "responses": ["This Covid Bot is Developed by Analytics Avengers"],
+        "context_set": ""
+      },
+      {
+        "tag": "intent_26",
+        "patterns": [
+         "how will warm weather stop corona virus?",
+         "Can warm weather actually stop corona?",
+         "will it stop with warm weather?"
+        ],
+        "responses": ["With the start of summer coming soon, many are hopeful that the warmer weather will slow the spread of SARS-CoV-2, the novel coronavirus that causes COVID-19. There have been hints from lab experiments that increased temperature and humidity may reduce the viability of SARS-CoV-2. Meanwhile, other coronaviruses that cause less severe diseases, such as the common cold, do spread more slowly among people during the summer."],
+        "context_set": ""
+    },
+    {
+      "tag": "intent_27",
+      "patterns": ["who is at higher risk of infection",
+      "who is more prone to get corona virus infection"
+       ],
+      "responses": ["COVID-19 is often more severe in people who are older than 60 years or who have health conditions like lung or heart disease, diabetes or conditions that affect their immune system If you're at high risk, know what to do, and take the right actions now to protect yourself.If you're not at high risk, do your part to prevent the spread of coronavirus to those who are.There is increasing evidence that people with existing chronic conditions or compromised immune systems due to disability are at higher risk of death due to COVID-19."],
+      "context_set": ""
+  },
+  {
+    "tag": "intent_28",
+    "patterns": ["If You or Someone You Know is Sick or Had Contact with Someone who Has COVID-19",
+    "If You or Someone You Know is Sick or Had Contact with Someone who Has corona?",
+    "what should i do if someone in my house gets infected by corona?",
+    "what should i do if someone in my house gets infected by covid-19?",
+    "someone gets covid-19 i know?- my family member gets infected by corona?",
+    "someone gets infected by corona i know?",
+    "someone gets infected by corona i was in contact with?",
+    "someone gets infected by covid i was in contact with?",
+    "what to do if someone gets infected by covid i was in contact with?"],
+    "responses": ["Stay home for 14 days after your last contact with a person who has COVID-19.Be alert for symptoms. Watch for fever, cough, shortness of breath, or other symptoms of COVID-19.If possible, stay away from others, especially people who are at higher risk for getting very sick from COVID-19."],
+    "context_set": ""
+    
+  },
+  {
+    "tag": "intent_29",
+    "patterns": ["how can i prevent covid19?",
+    "how can i prevent corona virus?- how can i prevent covid-19?",
+    "prevent covid19?",
+    "prevent corona",
+    "how once can prevent himself or herself from getting infected from covid19?",
+    "how once can prevent himself or herself from getting infected from corona?"],
+    "responses": ["The best way to prevent illness is to avoid being exposed to the virus. CDC recommends everyday preventive actions to help prevent the spread of respiratory diseases.CDC recommends washing your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing. If soap and water are not available, CDC recommends using an alcohol-based hand sanitizer that contains at least 60 percent alcohol.Wear masks in public settings when around people not living in your household and particularly where other social distancing measures are difficult to maintain, such as grocery stores, pharmacies, and gas stations. Masks may slow the spread of the virus and help people who may have the virus and do not know it from transmitting it to others.COVID-19 can be spread by people who do not have symptoms and do not know that they are infected. That's why it's important for everyone to practice social distancing (staying at least 6 feet away from other people) and wear masks in public settings. Masks provide an extra layer to help prevent the respiratory droplets from traveling in the air and onto other people.The masks recommended are not surgical masks or N-95 respirators. Those are critical supplies that must continue to be reserved for healthcare workers and other medical first responders, as recommended by current CDC guidance."],
+    "context_set": ""
+  }
+    ]
+  }
